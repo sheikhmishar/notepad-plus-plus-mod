@@ -17,4 +17,4 @@ I've added Emmet in this package. If you don't want to keep it, just delete the 
    Add more plugins
    Add more skins/themes
 
-#### Special thanks go to "notepad-plus-plus" team and "bruderstein". 
+#### Special thanks go to _notepad-plus-plus_** team and _bruderstein_**. 
