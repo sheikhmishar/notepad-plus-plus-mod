@@ -12,9 +12,9 @@ I've added Emmet in this package. If you don't want to keep it, just delete the 
 
 #### Todo Next
 ***********************************************************************************
-   Add more features
-   Create minimal package
-   Add more plugins
-   Add more skins/themes
+###### Add more features
+###### Create minimal package
+###### Add more plugins
+###### Add more skins/themes
 
 #### Special thanks go to _notepad-plus-plus_ team and _bruderstein_ 
